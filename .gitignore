@@ -7,8 +7,7 @@ venv/
 .venv/
 env/
 
-# data and models
-data/
+# models
 models/
 
 # System files
