@@ -7,7 +7,7 @@ This directory contains two notebooks used to build the RoleRecommender App.
 ## Demo
 
 Once the app is deployed on Streamlit Cloud, you can try it out here:  
-[RoleRecommender Online](https://share.streamlit.io/jan399/RoleRecommender-app/main/RoleRecommender-app.py)
+[RoleRecommender Online](https://share.streamlit.io/jan399/my_app/main/RoleRecommender-app.py)
 
 # Directory structure
 
@@ -48,4 +48,4 @@ Once the app is deployed on Streamlit Cloud, you can try it out here:
 # Attention
 Files in the `downloads_for_streamlit` folder must be manually transferred to the corresponding upload folder of the app.  
 This is slightly inconvenient but was chosen to ensure stable and consistent app behavior.
-Pleas note that all download files have to be deleted before generating new ones.
+Please note that all download files have to be deleted before generating new ones.
