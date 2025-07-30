@@ -11,5 +11,5 @@ Push to git:
 -----------
 
 git add .
-git commit -m "Update final report"
+git commit -m "Update data folder"
 git push
