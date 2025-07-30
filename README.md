@@ -18,6 +18,12 @@ You can try the app online here:
 
 ![Directory Structure](data/1_File_Structure.png)
 
+
+## Purpose of Notebooks
+
+![Prupose of Notebooks](data/2_Notebook_Comparison.png)
+
+
 ---
 
 ## Important Notes
