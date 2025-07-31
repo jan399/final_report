@@ -13,3 +13,6 @@ Push to git:
 git add .
 git commit -m "Update data folder"
 git push
+
+Foreced Push:
+git add README.md -f data/2_Notebook_Comparison.png && git commit -m "Add notebook comparison image and update README" && git push
