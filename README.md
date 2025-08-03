@@ -2,8 +2,8 @@
 
 This directory contains two Jupyter notebooks that were used to develop and prepare the **RoleRecommender App**:
 
-- **RoleRecommender Models v1.0.ipynb** – Trains and evaluates three ensemble models (RandomForest, HistGradientBoosting, and XGBoost).
-- **RoleRecommender Streamlit v1.0.ipynb** – Generates all files required to run the RoleRecommender App on Streamlit.
+- **RoleRecommender Models v2.0.ipynb** – Trains and evaluates three ensemble models (RandomForest, HistGradientBoosting, and XGBoost).
+- **RoleRecommender Streamlit v2.0.ipynb** – Generates all files required to run the RoleRecommender App on Streamlit.
 
 ---
 
