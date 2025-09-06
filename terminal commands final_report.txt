@@ -11,7 +11,7 @@ Push to git:
 -----------
 
 git add .
-git commit -m "Update data folder"
+git commit -m "Update Notebooks to v2.0 plus Code Versiones"
 git push
 
 Foreced Push:
